@@ -10,3 +10,5 @@ HTML: For the structure and semantic design of the website.
 CSS: To add vibrant styles.
 jQuery: To create dynamic and interactive web elements.
 Bootstrap: For responsive design and development.
+
+You have to go to the sign up page(signup.html) and have a look on our Music Site. 
